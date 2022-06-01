@@ -27,7 +27,7 @@ cd flutter run
 ```
 ## About Project
 
-This project is created by following instructions from [SimpleKoder Project](https://www.youtube.com/watch?v=v908ggq9ZnU&t=1514s) and have modified by me.
+This project is created by following instructions from [SimpleKoder Project](https://www.youtube.com/watch?v=v908ggq9ZnU&t=1514s) and have some modified by me.
 
 
 .
